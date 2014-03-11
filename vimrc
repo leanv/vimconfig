@@ -117,8 +117,8 @@ let g:auto_save = 1
 "
 """"""""""""""""""""""""""""""""""""""""
 
-  " Use Ctrl-shift-c to comment and uncomment, cool
-  map <c-s-c> gcc
+  " Use Ctrl-c to comment and uncomment, cool
+  map <c-c> gcc
 
 """""""""""""""""""""""""""""""""""""""""
 "
